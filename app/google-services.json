@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414729101907",
+    "project_id": "d2-gunsmith-app",
+    "storage_bucket": "d2-gunsmith-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414729101907:android:880a6f08179c4888b05ca6",
+        "android_client_info": {
+          "package_name": "com.example.d2gunsmith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414729101907-0rc70jf55m6vjrfhu5iagrjm4c6pk8ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkV_1hmxYb0ZUgL3mQtXSMN7qJ-X07BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414729101907-0rc70jf55m6vjrfhu5iagrjm4c6pk8ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
